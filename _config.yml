@@ -1,0 +1,17 @@
+title: Marcus Linhares — Blog
+description: Notas de engenharia, IA aplicada e desenvolvimento fullstack.
+author: Marcus Linhares
+email: marcusviniciuslinhares543@gmail.com
+url: "https://marcuslinhares.github.io"
+baseurl: "/blog"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+lang: pt-BR
+timezone: America/Fortaleza
+minima:
+  skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/marcuslinhares" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/marcus-linhares" }
